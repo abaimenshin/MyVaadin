@@ -1,0 +1,1 @@
+$wnd.com_example_myvaadin_widgetset_MyvaadinWidgetset.runAsyncCallback2('Zfb(1704,1,yee);_.vc=function slc(){H4b((!A4b&&(A4b=new M4b),A4b),this.a.d)};U7d(Th)(2);\n//# sourceURL=com.example.myvaadin.widgetset.MyvaadinWidgetset-2.js\n')
